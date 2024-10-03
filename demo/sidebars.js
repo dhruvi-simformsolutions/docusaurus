@@ -28,7 +28,11 @@ const sidebars = {
     {
       type: "category",
       label: "Extras",
-      items: ["tutorial-extras/manage-docs-versions", "tutorial-extras/demo"],
+      items: [
+        "tutorial-extras/manage-docs-versions",
+        "tutorial-extras/demo",
+        "tutorial-extras/react",
+      ],
     },
   ],
 };
